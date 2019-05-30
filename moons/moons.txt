@@ -7,3 +7,6 @@ Wolfman won't know what to do about a full moon.
 
 this is a new line
 now I'm adding a line that will be added later.
+
+The moon is dark and cold.
+
